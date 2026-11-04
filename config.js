@@ -10,7 +10,7 @@
  * The bot uses it if Google can't be reached.
  */
 window.BOT_CONFIG = {
-  SHEET_CSV_URL: "PASTE_YOUR_PUBLISHED_CSV_LINK_HERE",
+  SHEET_CSV_URL: "https://docs.google.com/spreadsheets/d/e/2PACX-1vSx_t89F7L_WAl4kvZQdo8O_tS33QjaxWBInDw3Y3O0x6lslwnS1lhJEykkM7XktMYWawrzxg6AMXp7/pub?output=csv",
   BACKUP_CSV: "data/voting.csv",
 
   // true  = the bot reads your Google Sheet directly, so readers see
